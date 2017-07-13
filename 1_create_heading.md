@@ -1,4 +1,3 @@
-# helloworld
 # Python基礎文法シリーズ
 
 # このテキストのゴール
