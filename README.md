@@ -25,7 +25,7 @@ lambda 関数では複数の引数を定義することができます。必要�
 13000</br>
 
 ＜lambda式＞
->＞＞＞eur_ch_yen = lambda eur,rate:eur*rate</br>　
+>＞＞＞eur_ch_yen = lambda eur,rate:eur*rate</br>
 ＞＞＞eur_ch_yen(100,130)</br>
 13000</br>
 
