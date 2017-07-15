@@ -17,11 +17,11 @@ lambda 関数では複数の引数を定義することができます。必要�
 ＊インタラクティブモードで実行します。
 
 ＜def文＞
->＞＞＞def eur_ch_yen(eur,rate):
-...return eur* rate
-...
-＞＞＞eur_ch_yen(100,130)
-13000
+>＞＞＞def eur_ch_yen(eur,rate):</br>
+...return eur* rate</br>
+...</br>
+＞＞＞eur_ch_yen(100,130)</br>
+13000</br>
 
 ＜lambda式＞
 ＞＞＞eur_ch_yen = lambda eur,rate:eur*rate　
