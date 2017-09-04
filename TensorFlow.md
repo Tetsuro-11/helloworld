@@ -32,7 +32,7 @@ TensorFlowを呼び出すときは下のように呼び出しましょう。
 import tensorflow as tf
 ```
 
-#### 定数と変数の定義 `tf.constant()`,`tf.Valuable`
+#### 定数と変数の定義 `tf.constant()`,`tf.Valuable()`
 定数は `tf.constant()`,変数は　`tf.Valuable`を用いて定義します。  
 
 #### プレースホルダ `tf.placeholder()`
